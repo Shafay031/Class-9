@@ -59,12 +59,6 @@ An **array** is a **collection of variables of the same type**, stored together 
 - Accessed using two indexes: `row` and `column`
 
 ---
-
-## 📸 Screenshots
-Reference screenshots for better understanding are in the `screenshots/` folder.
-
----
-
 ## 🧑‍💻 How to Run
 
 ```bash
